@@ -1,10 +1,11 @@
+console.log("connected")
 // https://harvesthq.github.io/chosen/
 $("#submit").on("click", function (event) {
     event.preventDefault();
     // users answers variable
     var userAnswers = {
         name: $("#name").val().trim(),
-        img: $("#img").val(),
+        photo: $("#photo").val(),
         scores: [
             $("#q1").val(),
             $("#q2").val(),
