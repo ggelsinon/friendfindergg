@@ -110,7 +110,24 @@ var friends = [
             4,
             3,
         ]
-    },    
+    },
+    {
+        name: "Slayer",
+        photo: "https://tinyurl.com/y4twhlms",
+        scores: [
+            2,
+            3,
+            1,
+            2,
+            3,
+            5,
+            5,
+            2,
+            1,
+            4,
+        ]
+    }
+
 ]
 
 
